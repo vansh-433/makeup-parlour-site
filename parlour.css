@@ -180,6 +180,11 @@ color: black;
     nav a{
         padding: 5px 0;
     }
+    .navbar{
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
     .service-card{
         flex-direction: column;
         align-items: flex-start;
