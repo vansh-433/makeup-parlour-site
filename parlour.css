@@ -149,9 +149,7 @@ color: black;
     padding: 20px;
     box-shadow: 0 0 0 15px;
 }
-.navbar{
-    margin: 20px 40px;
-}
+
 /* want my site to look compatible to phone screen */
 @media screen and (max-width:768px) {
     body{
@@ -187,7 +185,7 @@ color: black;
         display: flex;
         flex-direction: row;
         flex-wrap: wrap;
-        margin: 20px 40px;
+        
     }
     .service-card{
         flex-direction: column;
