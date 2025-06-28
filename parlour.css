@@ -13,7 +13,7 @@ header {
     text-align: center;
 }
 .main-title{
-    font-size: 36px;
+    font-size: 3rem;
 font-weight: bold;
 text-align : center;
 color: #ffffff;
@@ -98,6 +98,9 @@ footer{
     color: white;
     padding: 15px;
 }
+footer a{
+    color:white;
+}
 .service-card{
     display: flex;
     align-items: center;
@@ -156,6 +159,9 @@ color: black;
         font-size: 14px;
         padding: 10px;
     }
+    .main-title{
+        font-size:2.2rem;
+    }
     img {
         max-width: 50%;
         height: auto;
@@ -193,6 +199,9 @@ color: black;
     }
     .service-card img{
         width:100%;
+    }
+    footer a{
+        color:white;
     }
 
 }
